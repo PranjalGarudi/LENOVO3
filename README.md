@@ -2,8 +2,6 @@
 
 A responsive **static website** built using **HTML and CSS** to spread awareness about **UN Sustainable Development Goal 8 (SDG 8)** — *Decent Work and Economic Growth*. The project highlights why inclusive growth matters and showcases real-world focus areas like green jobs, worker rights, and digital skills.
 
-This project is well-suited for **college assignments, SDG-based projects, hackathons, and beginner portfolios**.
-
 ---
 
 ## 📌 Project Objective
